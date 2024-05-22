@@ -1,0 +1,3842 @@
+[
+    {
+        "country_id": "AR",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "2022",
+        "value": 631133384439.944
+    },
+    {
+        "country_id": "AR",
+        "year": "2021",
+        "value": 487902572164.348
+    },
+    {
+        "country_id": "AR",
+        "year": "2020",
+        "value": 385740508436.965
+    },
+    {
+        "country_id": "AR",
+        "year": "2019",
+        "value": 447754683615.225
+    },
+    {
+        "country_id": "AR",
+        "year": "2018",
+        "value": 524819892360.176
+    },
+    {
+        "country_id": "AR",
+        "year": "2017",
+        "value": 643628393281.364
+    },
+    {
+        "country_id": "AR",
+        "year": "2016",
+        "value": 557532320662.955
+    },
+    {
+        "country_id": "AR",
+        "year": "2015",
+        "value": 594749285413.212
+    },
+    {
+        "country_id": "AR",
+        "year": "2014",
+        "value": 526319673731.638
+    },
+    {
+        "country_id": "AR",
+        "year": "2013",
+        "value": 552025140252.246
+    },
+    {
+        "country_id": "AR",
+        "year": "2012",
+        "value": 545982375701.128
+    },
+    {
+        "country_id": "AR",
+        "year": "2011",
+        "value": 530158122010.442
+    },
+    {
+        "country_id": "AR",
+        "year": "2010",
+        "value": 423627422092.49
+    },
+    {
+        "country_id": "AR",
+        "year": "2009",
+        "value": 332976484577.619
+    },
+    {
+        "country_id": "AR",
+        "year": "2008",
+        "value": 361558037110.419
+    },
+    {
+        "country_id": "AR",
+        "year": "2007",
+        "value": 287530508430.568
+    },
+    {
+        "country_id": "AR",
+        "year": "2006",
+        "value": 232557260817.308
+    },
+    {
+        "country_id": "AR",
+        "year": "2005",
+        "value": 198737095012.282
+    },
+    {
+        "country_id": "AR",
+        "year": "2004",
+        "value": 164657930452.787
+    },
+    {
+        "country_id": "AR",
+        "year": "2003",
+        "value": 127586973492.177
+    },
+    {
+        "country_id": "AR",
+        "year": "2002",
+        "value": 97724004251.8602
+    },
+    {
+        "country_id": "AR",
+        "year": "2001",
+        "value": 268696750000
+    },
+    {
+        "country_id": "AR",
+        "year": "2000",
+        "value": 284203750000
+    },
+    {
+        "country_id": "AR",
+        "year": "1999",
+        "value": 283523000000
+    },
+    {
+        "country_id": "AR",
+        "year": "1998",
+        "value": 298948250000
+    },
+    {
+        "country_id": "AR",
+        "year": "1997",
+        "value": 292859000000
+    },
+    {
+        "country_id": "AR",
+        "year": "1996",
+        "value": 272149750000
+    },
+    {
+        "country_id": "AR",
+        "year": "1995",
+        "value": 258031750000
+    },
+    {
+        "country_id": "AR",
+        "year": "1994",
+        "value": 257440000000
+    },
+    {
+        "country_id": "AR",
+        "year": "1993",
+        "value": 236741715015.015
+    },
+    {
+        "country_id": "AR",
+        "year": "1992",
+        "value": 228778917308.17
+    },
+    {
+        "country_id": "AR",
+        "year": "1991",
+        "value": 189719984268.485
+    },
+    {
+        "country_id": "AR",
+        "year": "1990",
+        "value": 141352654305.163
+    },
+    {
+        "country_id": "AR",
+        "year": "1989",
+        "value": 76629657863.6557
+    },
+    {
+        "country_id": "AR",
+        "year": "1988",
+        "value": 126928000000
+    },
+    {
+        "country_id": "AR",
+        "year": "1987",
+        "value": 109029439252.336
+    },
+    {
+        "country_id": "AR",
+        "year": "1986",
+        "value": 106213829787.234
+    },
+    {
+        "country_id": "AR",
+        "year": "1985",
+        "value": 88416666666.6667
+    },
+    {
+        "country_id": "AR",
+        "year": "1984",
+        "value": 112988571428.571
+    },
+    {
+        "country_id": "AR",
+        "year": "1983",
+        "value": 109490000000
+    },
+    {
+        "country_id": "AR",
+        "year": "1982",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1981",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1980",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1979",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1978",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1977",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1976",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1975",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1974",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1973",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1972",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1971",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1970",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1969",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1968",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1967",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1966",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1965",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1964",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1963",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1962",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1961",
+        "value": null
+    },
+    {
+        "country_id": "AR",
+        "year": "1960",
+        "value": null
+    },
+    {
+        "country_id": "BO",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "BO",
+        "year": "2022",
+        "value": 44008282877.9606
+    },
+    {
+        "country_id": "BO",
+        "year": "2021",
+        "value": 40406111695.179
+    },
+    {
+        "country_id": "BO",
+        "year": "2020",
+        "value": 36629843806.0781
+    },
+    {
+        "country_id": "BO",
+        "year": "2019",
+        "value": 40895322850.9407
+    },
+    {
+        "country_id": "BO",
+        "year": "2018",
+        "value": 40287647930.5355
+    },
+    {
+        "country_id": "BO",
+        "year": "2017",
+        "value": 37508642170.767
+    },
+    {
+        "country_id": "BO",
+        "year": "2016",
+        "value": 33941126193.9219
+    },
+    {
+        "country_id": "BO",
+        "year": "2015",
+        "value": 33000198248.9146
+    },
+    {
+        "country_id": "BO",
+        "year": "2014",
+        "value": 32996188017.3661
+    },
+    {
+        "country_id": "BO",
+        "year": "2013",
+        "value": 30659338885.6729
+    },
+    {
+        "country_id": "BO",
+        "year": "2012",
+        "value": 27084497481.9103
+    },
+    {
+        "country_id": "BO",
+        "year": "2011",
+        "value": 23963164696.592
+    },
+    {
+        "country_id": "BO",
+        "year": "2010",
+        "value": 19649723722.1034
+    },
+    {
+        "country_id": "BO",
+        "year": "2009",
+        "value": 17339992193.7322
+    },
+    {
+        "country_id": "BO",
+        "year": "2008",
+        "value": 16674276285.8956
+    },
+    {
+        "country_id": "BO",
+        "year": "2007",
+        "value": 13120108008.3477
+    },
+    {
+        "country_id": "BO",
+        "year": "2006",
+        "value": 11451844902.2214
+    },
+    {
+        "country_id": "BO",
+        "year": "2005",
+        "value": 9549122905.32852
+    },
+    {
+        "country_id": "BO",
+        "year": "2004",
+        "value": 8773451751.5121
+    },
+    {
+        "country_id": "BO",
+        "year": "2003",
+        "value": 8082399639.54305
+    },
+    {
+        "country_id": "BO",
+        "year": "2002",
+        "value": 7905485146.44351
+    },
+    {
+        "country_id": "BO",
+        "year": "2001",
+        "value": 8141516928.39489
+    },
+    {
+        "country_id": "BO",
+        "year": "2000",
+        "value": 8397855484.76908
+    },
+    {
+        "country_id": "BO",
+        "year": "1999",
+        "value": 8285064434.56826
+    },
+    {
+        "country_id": "BO",
+        "year": "1998",
+        "value": 8497494652.12546
+    },
+    {
+        "country_id": "BO",
+        "year": "1997",
+        "value": 7925736821.45034
+    },
+    {
+        "country_id": "BO",
+        "year": "1996",
+        "value": 7396949126.35685
+    },
+    {
+        "country_id": "BO",
+        "year": "1995",
+        "value": 6715161732.22658
+    },
+    {
+        "country_id": "BO",
+        "year": "1994",
+        "value": 5981222858.82727
+    },
+    {
+        "country_id": "BO",
+        "year": "1993",
+        "value": 5734699488.84934
+    },
+    {
+        "country_id": "BO",
+        "year": "1992",
+        "value": 5643868748.68126
+    },
+    {
+        "country_id": "BO",
+        "year": "1991",
+        "value": 5343262457.10226
+    },
+    {
+        "country_id": "BO",
+        "year": "1990",
+        "value": 4867582597.52327
+    },
+    {
+        "country_id": "BO",
+        "year": "1989",
+        "value": 4715973437.39371
+    },
+    {
+        "country_id": "BO",
+        "year": "1988",
+        "value": 4597611710.02127
+    },
+    {
+        "country_id": "BO",
+        "year": "1987",
+        "value": 4347956337.83337
+    },
+    {
+        "country_id": "BO",
+        "year": "1986",
+        "value": 3959383519.78036
+    },
+    {
+        "country_id": "BO",
+        "year": "1985",
+        "value": 5377276656.9045
+    },
+    {
+        "country_id": "BO",
+        "year": "1984",
+        "value": 6169304491.53731
+    },
+    {
+        "country_id": "BO",
+        "year": "1983",
+        "value": 5414008064.03461
+    },
+    {
+        "country_id": "BO",
+        "year": "1982",
+        "value": 5600385567.80759
+    },
+    {
+        "country_id": "BO",
+        "year": "1981",
+        "value": 5778487836.53844
+    },
+    {
+        "country_id": "BO",
+        "year": "1980",
+        "value": 4450368036.69452
+    },
+    {
+        "country_id": "BO",
+        "year": "1979",
+        "value": 4510500000
+    },
+    {
+        "country_id": "BO",
+        "year": "1978",
+        "value": 3760100000
+    },
+    {
+        "country_id": "BO",
+        "year": "1977",
+        "value": 3229050000
+    },
+    {
+        "country_id": "BO",
+        "year": "1976",
+        "value": 2733350000
+    },
+    {
+        "country_id": "BO",
+        "year": "1975",
+        "value": 2405900000
+    },
+    {
+        "country_id": "BO",
+        "year": "1974",
+        "value": 2101300000
+    },
+    {
+        "country_id": "BO",
+        "year": "1973",
+        "value": 1263600000
+    },
+    {
+        "country_id": "BO",
+        "year": "1972",
+        "value": 1286153846.15385
+    },
+    {
+        "country_id": "BO",
+        "year": "1971",
+        "value": 1084666666.66667
+    },
+    {
+        "country_id": "BO",
+        "year": "1970",
+        "value": 1006833333.33333
+    },
+    {
+        "country_id": "BO",
+        "year": "1969",
+        "value": 920333333.333333
+    },
+    {
+        "country_id": "BO",
+        "year": "1968",
+        "value": 849333333.333333
+    },
+    {
+        "country_id": "BO",
+        "year": "1967",
+        "value": 748250000
+    },
+    {
+        "country_id": "BO",
+        "year": "1966",
+        "value": 662500000
+    },
+    {
+        "country_id": "BO",
+        "year": "1965",
+        "value": 598333333.333333
+    },
+    {
+        "country_id": "BO",
+        "year": "1964",
+        "value": 538583333.333333
+    },
+    {
+        "country_id": "BO",
+        "year": "1963",
+        "value": 478000000
+    },
+    {
+        "country_id": "BO",
+        "year": "1962",
+        "value": 443916666.666667
+    },
+    {
+        "country_id": "BO",
+        "year": "1961",
+        "value": 406000000
+    },
+    {
+        "country_id": "BO",
+        "year": "1960",
+        "value": 373250000
+    },
+    {
+        "country_id": "BR",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "2022",
+        "value": 1920095779022.73
+    },
+    {
+        "country_id": "BR",
+        "year": "2021",
+        "value": 1649622821885.14
+    },
+    {
+        "country_id": "BR",
+        "year": "2020",
+        "value": 1476107231194.11
+    },
+    {
+        "country_id": "BR",
+        "year": "2019",
+        "value": 1873288205186.45
+    },
+    {
+        "country_id": "BR",
+        "year": "2018",
+        "value": 1916933898038.36
+    },
+    {
+        "country_id": "BR",
+        "year": "2017",
+        "value": 2063514977334.32
+    },
+    {
+        "country_id": "BR",
+        "year": "2016",
+        "value": 1795693482652.52
+    },
+    {
+        "country_id": "BR",
+        "year": "2015",
+        "value": 1802212206904.68
+    },
+    {
+        "country_id": "BR",
+        "year": "2014",
+        "value": 2456043727198.85
+    },
+    {
+        "country_id": "BR",
+        "year": "2013",
+        "value": 2472819535742.73
+    },
+    {
+        "country_id": "BR",
+        "year": "2012",
+        "value": 2465227803011.57
+    },
+    {
+        "country_id": "BR",
+        "year": "2011",
+        "value": 2616156223977.47
+    },
+    {
+        "country_id": "BR",
+        "year": "2010",
+        "value": 2208837745214.23
+    },
+    {
+        "country_id": "BR",
+        "year": "2009",
+        "value": 1666996438681.46
+    },
+    {
+        "country_id": "BR",
+        "year": "2008",
+        "value": 1695855083552.05
+    },
+    {
+        "country_id": "BR",
+        "year": "2007",
+        "value": 1397114486471.38
+    },
+    {
+        "country_id": "BR",
+        "year": "2006",
+        "value": 1107626541710.74
+    },
+    {
+        "country_id": "BR",
+        "year": "2005",
+        "value": 891633839853.105
+    },
+    {
+        "country_id": "BR",
+        "year": "2004",
+        "value": 669289424806.307
+    },
+    {
+        "country_id": "BR",
+        "year": "2003",
+        "value": 558233745651.874
+    },
+    {
+        "country_id": "BR",
+        "year": "2002",
+        "value": 509795273806.715
+    },
+    {
+        "country_id": "BR",
+        "year": "2001",
+        "value": 559983634798.981
+    },
+    {
+        "country_id": "BR",
+        "year": "2000",
+        "value": 655448231983.527
+    },
+    {
+        "country_id": "BR",
+        "year": "1999",
+        "value": 599642024319.531
+    },
+    {
+        "country_id": "BR",
+        "year": "1998",
+        "value": 863710759256.435
+    },
+    {
+        "country_id": "BR",
+        "year": "1997",
+        "value": 883206179730.462
+    },
+    {
+        "country_id": "BR",
+        "year": "1996",
+        "value": 850426432991.742
+    },
+    {
+        "country_id": "BR",
+        "year": "1995",
+        "value": 769333050986.905
+    },
+    {
+        "country_id": "BR",
+        "year": "1994",
+        "value": 546229749726.263
+    },
+    {
+        "country_id": "BR",
+        "year": "1993",
+        "value": 438302216833.007
+    },
+    {
+        "country_id": "BR",
+        "year": "1992",
+        "value": 390590371724.558
+    },
+    {
+        "country_id": "BR",
+        "year": "1991",
+        "value": 407337837837.838
+    },
+    {
+        "country_id": "BR",
+        "year": "1990",
+        "value": 461951781818.18
+    },
+    {
+        "country_id": "BR",
+        "year": "1989",
+        "value": 425595310393.455
+    },
+    {
+        "country_id": "BR",
+        "year": "1988",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1987",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1986",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1985",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1984",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1983",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1982",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1981",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1980",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1979",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1978",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1977",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1976",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1975",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1974",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1973",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1972",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1971",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1970",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1969",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1968",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1967",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1966",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1965",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1964",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1963",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1962",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1961",
+        "value": null
+    },
+    {
+        "country_id": "BR",
+        "year": "1960",
+        "value": null
+    },
+    {
+        "country_id": "CL",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "CL",
+        "year": "2022",
+        "value": 301024724911.923
+    },
+    {
+        "country_id": "CL",
+        "year": "2021",
+        "value": 316581155648.871
+    },
+    {
+        "country_id": "CL",
+        "year": "2020",
+        "value": 254258196269.735
+    },
+    {
+        "country_id": "CL",
+        "year": "2019",
+        "value": 278598887622.96
+    },
+    {
+        "country_id": "CL",
+        "year": "2018",
+        "value": 295857562826.427
+    },
+    {
+        "country_id": "CL",
+        "year": "2017",
+        "value": 276154259806.312
+    },
+    {
+        "country_id": "CL",
+        "year": "2016",
+        "value": 249344864067.964
+    },
+    {
+        "country_id": "CL",
+        "year": "2015",
+        "value": 242450355827.827
+    },
+    {
+        "country_id": "CL",
+        "year": "2014",
+        "value": 259560978407.095
+    },
+    {
+        "country_id": "CL",
+        "year": "2013",
+        "value": 277395018674.682
+    },
+    {
+        "country_id": "CL",
+        "year": "2012",
+        "value": 267024782642.389
+    },
+    {
+        "country_id": "CL",
+        "year": "2011",
+        "value": 251382574083.741
+    },
+    {
+        "country_id": "CL",
+        "year": "2010",
+        "value": 217051209240.298
+    },
+    {
+        "country_id": "CL",
+        "year": "2009",
+        "value": 171777900623.177
+    },
+    {
+        "country_id": "CL",
+        "year": "2008",
+        "value": 179894594475.98
+    },
+    {
+        "country_id": "CL",
+        "year": "2007",
+        "value": 172491075948.358
+    },
+    {
+        "country_id": "CL",
+        "year": "2006",
+        "value": 153843518110.852
+    },
+    {
+        "country_id": "CL",
+        "year": "2005",
+        "value": 122294145211.371
+    },
+    {
+        "country_id": "CL",
+        "year": "2004",
+        "value": 99075985721.5697
+    },
+    {
+        "country_id": "CL",
+        "year": "2003",
+        "value": 76492579644.0605
+    },
+    {
+        "country_id": "CL",
+        "year": "2002",
+        "value": 70264045959.6025
+    },
+    {
+        "country_id": "CL",
+        "year": "2001",
+        "value": 71574739558.6914
+    },
+    {
+        "country_id": "CL",
+        "year": "2000",
+        "value": 78339750717.0395
+    },
+    {
+        "country_id": "CL",
+        "year": "1999",
+        "value": 75578685736.1159
+    },
+    {
+        "country_id": "CL",
+        "year": "1998",
+        "value": 81990010726.0184
+    },
+    {
+        "country_id": "CL",
+        "year": "1997",
+        "value": 85741415248.4482
+    },
+    {
+        "country_id": "CL",
+        "year": "1996",
+        "value": 78584098982.9097
+    },
+    {
+        "country_id": "CL",
+        "year": "1995",
+        "value": 73444831587.4252
+    },
+    {
+        "country_id": "CL",
+        "year": "1994",
+        "value": 56998601233.0675
+    },
+    {
+        "country_id": "CL",
+        "year": "1993",
+        "value": 49287378587.5542
+    },
+    {
+        "country_id": "CL",
+        "year": "1992",
+        "value": 45949608605.2333
+    },
+    {
+        "country_id": "CL",
+        "year": "1991",
+        "value": 37846188180.81
+    },
+    {
+        "country_id": "CL",
+        "year": "1990",
+        "value": 33137824752.7724
+    },
+    {
+        "country_id": "CL",
+        "year": "1989",
+        "value": 29936735454.608
+    },
+    {
+        "country_id": "CL",
+        "year": "1988",
+        "value": 26042571602.0453
+    },
+    {
+        "country_id": "CL",
+        "year": "1987",
+        "value": 22250729663.5188
+    },
+    {
+        "country_id": "CL",
+        "year": "1986",
+        "value": 18897110581.4531
+    },
+    {
+        "country_id": "CL",
+        "year": "1985",
+        "value": 17717662227.8036
+    },
+    {
+        "country_id": "CL",
+        "year": "1984",
+        "value": 19671768029.2843
+    },
+    {
+        "country_id": "CL",
+        "year": "1983",
+        "value": 20362016603.8243
+    },
+    {
+        "country_id": "CL",
+        "year": "1982",
+        "value": 19529291438.3712
+    },
+    {
+        "country_id": "CL",
+        "year": "1981",
+        "value": 34509878043.5897
+    },
+    {
+        "country_id": "CL",
+        "year": "1980",
+        "value": 29036709871.7949
+    },
+    {
+        "country_id": "CL",
+        "year": "1979",
+        "value": 21806136345.5074
+    },
+    {
+        "country_id": "CL",
+        "year": "1978",
+        "value": 15992038535.2046
+    },
+    {
+        "country_id": "CL",
+        "year": "1977",
+        "value": 13965595122.3247
+    },
+    {
+        "country_id": "CL",
+        "year": "1976",
+        "value": 10338624019.4415
+    },
+    {
+        "country_id": "CL",
+        "year": "1975",
+        "value": 7621570062.17598
+    },
+    {
+        "country_id": "CL",
+        "year": "1974",
+        "value": 16209693232.0782
+    },
+    {
+        "country_id": "CL",
+        "year": "1973",
+        "value": 16826390943.8597
+    },
+    {
+        "country_id": "CL",
+        "year": "1972",
+        "value": 11833904487.641
+    },
+    {
+        "country_id": "CL",
+        "year": "1971",
+        "value": 10876091407.9777
+    },
+    {
+        "country_id": "CL",
+        "year": "1970",
+        "value": 9144112431.28214
+    },
+    {
+        "country_id": "CL",
+        "year": "1969",
+        "value": 8359596194.01253
+    },
+    {
+        "country_id": "CL",
+        "year": "1968",
+        "value": 7192102966.84119
+    },
+    {
+        "country_id": "CL",
+        "year": "1967",
+        "value": 7057478295.18548
+    },
+    {
+        "country_id": "CL",
+        "year": "1966",
+        "value": 7162633082.31628
+    },
+    {
+        "country_id": "CL",
+        "year": "1965",
+        "value": 6108679125.7523
+    },
+    {
+        "country_id": "CL",
+        "year": "1964",
+        "value": 5964195925.4443
+    },
+    {
+        "country_id": "CL",
+        "year": "1963",
+        "value": 5591307028.36005
+    },
+    {
+        "country_id": "CL",
+        "year": "1962",
+        "value": 5631285444.2344
+    },
+    {
+        "country_id": "CL",
+        "year": "1961",
+        "value": 4829238095.2381
+    },
+    {
+        "country_id": "CL",
+        "year": "1960",
+        "value": 4110000000
+    },
+    {
+        "country_id": "CO",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "CO",
+        "year": "2022",
+        "value": 343622114560.409
+    },
+    {
+        "country_id": "CO",
+        "year": "2021",
+        "value": 318511813576.97
+    },
+    {
+        "country_id": "CO",
+        "year": "2020",
+        "value": 270150956772.57
+    },
+    {
+        "country_id": "CO",
+        "year": "2019",
+        "value": 323031701210.765
+    },
+    {
+        "country_id": "CO",
+        "year": "2018",
+        "value": 334198218100.719
+    },
+    {
+        "country_id": "CO",
+        "year": "2017",
+        "value": 311866875135.578
+    },
+    {
+        "country_id": "CO",
+        "year": "2016",
+        "value": 282720100286.228
+    },
+    {
+        "country_id": "CO",
+        "year": "2015",
+        "value": 293492370228.844
+    },
+    {
+        "country_id": "CO",
+        "year": "2014",
+        "value": 381240864422.407
+    },
+    {
+        "country_id": "CO",
+        "year": "2013",
+        "value": 382093697077.685
+    },
+    {
+        "country_id": "CO",
+        "year": "2012",
+        "value": 370691143086.755
+    },
+    {
+        "country_id": "CO",
+        "year": "2011",
+        "value": 334966134865.3
+    },
+    {
+        "country_id": "CO",
+        "year": "2010",
+        "value": 286498534094.963
+    },
+    {
+        "country_id": "CO",
+        "year": "2009",
+        "value": 232468663073.684
+    },
+    {
+        "country_id": "CO",
+        "year": "2008",
+        "value": 242504150472.931
+    },
+    {
+        "country_id": "CO",
+        "year": "2007",
+        "value": 206229540893.231
+    },
+    {
+        "country_id": "CO",
+        "year": "2006",
+        "value": 161792958886.81
+    },
+    {
+        "country_id": "CO",
+        "year": "2005",
+        "value": 145600529626.71
+    },
+    {
+        "country_id": "CO",
+        "year": "2004",
+        "value": 117092416666.245
+    },
+    {
+        "country_id": "CO",
+        "year": "2003",
+        "value": 94644969157.0987
+    },
+    {
+        "country_id": "CO",
+        "year": "2002",
+        "value": 97945812802.8882
+    },
+    {
+        "country_id": "CO",
+        "year": "2001",
+        "value": 98200641203.3892
+    },
+    {
+        "country_id": "CO",
+        "year": "2000",
+        "value": 99875074951.0278
+    },
+    {
+        "country_id": "CO",
+        "year": "1999",
+        "value": 86278947636.962
+    },
+    {
+        "country_id": "CO",
+        "year": "1998",
+        "value": 98486358581.1639
+    },
+    {
+        "country_id": "CO",
+        "year": "1997",
+        "value": 106656492293.614
+    },
+    {
+        "country_id": "CO",
+        "year": "1996",
+        "value": 97153389010.9466
+    },
+    {
+        "country_id": "CO",
+        "year": "1995",
+        "value": 92495970511.3951
+    },
+    {
+        "country_id": "CO",
+        "year": "1994",
+        "value": 81705497616.5703
+    },
+    {
+        "country_id": "CO",
+        "year": "1993",
+        "value": 66474101301.1759
+    },
+    {
+        "country_id": "CO",
+        "year": "1992",
+        "value": 58394443377.5416
+    },
+    {
+        "country_id": "CO",
+        "year": "1991",
+        "value": 49637993948.8402
+    },
+    {
+        "country_id": "CO",
+        "year": "1990",
+        "value": 47844090709.9908
+    },
+    {
+        "country_id": "CO",
+        "year": "1989",
+        "value": 39540080200.3938
+    },
+    {
+        "country_id": "CO",
+        "year": "1988",
+        "value": 39212550050.4223
+    },
+    {
+        "country_id": "CO",
+        "year": "1987",
+        "value": 36373307085.0887
+    },
+    {
+        "country_id": "CO",
+        "year": "1986",
+        "value": 34942489683.9712
+    },
+    {
+        "country_id": "CO",
+        "year": "1985",
+        "value": 34894419443.4881
+    },
+    {
+        "country_id": "CO",
+        "year": "1984",
+        "value": 38253120737.9671
+    },
+    {
+        "country_id": "CO",
+        "year": "1983",
+        "value": 38729822781.5997
+    },
+    {
+        "country_id": "CO",
+        "year": "1982",
+        "value": 38968039721.748
+    },
+    {
+        "country_id": "CO",
+        "year": "1981",
+        "value": 36388366869.0309
+    },
+    {
+        "country_id": "CO",
+        "year": "1980",
+        "value": 33400735644.0481
+    },
+    {
+        "country_id": "CO",
+        "year": "1979",
+        "value": 27940411250.2732
+    },
+    {
+        "country_id": "CO",
+        "year": "1978",
+        "value": 23263511958.0509
+    },
+    {
+        "country_id": "CO",
+        "year": "1977",
+        "value": 19470960619.1297
+    },
+    {
+        "country_id": "CO",
+        "year": "1976",
+        "value": 15341403660.4698
+    },
+    {
+        "country_id": "CO",
+        "year": "1975",
+        "value": 13098633901.8673
+    },
+    {
+        "country_id": "CO",
+        "year": "1974",
+        "value": 12370029583.6419
+    },
+    {
+        "country_id": "CO",
+        "year": "1973",
+        "value": 10315760000.3394
+    },
+    {
+        "country_id": "CO",
+        "year": "1972",
+        "value": 8671358732.68486
+    },
+    {
+        "country_id": "CO",
+        "year": "1971",
+        "value": 7820380970.53674
+    },
+    {
+        "country_id": "CO",
+        "year": "1970",
+        "value": 7198360460.19887
+    },
+    {
+        "country_id": "CO",
+        "year": "1969",
+        "value": 6450175213.74923
+    },
+    {
+        "country_id": "CO",
+        "year": "1968",
+        "value": 5960212869.12968
+    },
+    {
+        "country_id": "CO",
+        "year": "1967",
+        "value": 5825170438.48704
+    },
+    {
+        "country_id": "CO",
+        "year": "1966",
+        "value": 5428518518.51852
+    },
+    {
+        "country_id": "CO",
+        "year": "1965",
+        "value": 5760761904.7619
+    },
+    {
+        "country_id": "CO",
+        "year": "1964",
+        "value": 5973366666.66667
+    },
+    {
+        "country_id": "CO",
+        "year": "1963",
+        "value": 4836166666.66667
+    },
+    {
+        "country_id": "CO",
+        "year": "1962",
+        "value": 4955538218.81618
+    },
+    {
+        "country_id": "CO",
+        "year": "1961",
+        "value": 4540447761.19403
+    },
+    {
+        "country_id": "CO",
+        "year": "1960",
+        "value": 4031152976.63904
+    },
+    {
+        "country_id": "EC",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "EC",
+        "year": "2022",
+        "value": 115049476000
+    },
+    {
+        "country_id": "EC",
+        "year": "2021",
+        "value": 106165866000
+    },
+    {
+        "country_id": "EC",
+        "year": "2020",
+        "value": 99291124000
+    },
+    {
+        "country_id": "EC",
+        "year": "2019",
+        "value": 108108009000
+    },
+    {
+        "country_id": "EC",
+        "year": "2018",
+        "value": 107562008000
+    },
+    {
+        "country_id": "EC",
+        "year": "2017",
+        "value": 104295862000
+    },
+    {
+        "country_id": "EC",
+        "year": "2016",
+        "value": 99937696000
+    },
+    {
+        "country_id": "EC",
+        "year": "2015",
+        "value": 99290381000
+    },
+    {
+        "country_id": "EC",
+        "year": "2014",
+        "value": 101726331000
+    },
+    {
+        "country_id": "EC",
+        "year": "2013",
+        "value": 95129659000
+    },
+    {
+        "country_id": "EC",
+        "year": "2012",
+        "value": 87924544000
+    },
+    {
+        "country_id": "EC",
+        "year": "2011",
+        "value": 79276664000
+    },
+    {
+        "country_id": "EC",
+        "year": "2010",
+        "value": 69555367000
+    },
+    {
+        "country_id": "EC",
+        "year": "2009",
+        "value": 62519686000
+    },
+    {
+        "country_id": "EC",
+        "year": "2008",
+        "value": 61762635000
+    },
+    {
+        "country_id": "EC",
+        "year": "2007",
+        "value": 51007777000
+    },
+    {
+        "country_id": "EC",
+        "year": "2006",
+        "value": 46802044000
+    },
+    {
+        "country_id": "EC",
+        "year": "2005",
+        "value": 41507085000
+    },
+    {
+        "country_id": "EC",
+        "year": "2004",
+        "value": 36591661000
+    },
+    {
+        "country_id": "EC",
+        "year": "2003",
+        "value": 32432858000
+    },
+    {
+        "country_id": "EC",
+        "year": "2002",
+        "value": 28548945000
+    },
+    {
+        "country_id": "EC",
+        "year": "2001",
+        "value": 24468324000
+    },
+    {
+        "country_id": "EC",
+        "year": "2000",
+        "value": 18327764882.4412
+    },
+    {
+        "country_id": "EC",
+        "year": "1999",
+        "value": 19645272636.3182
+    },
+    {
+        "country_id": "EC",
+        "year": "1998",
+        "value": 27981896948.4742
+    },
+    {
+        "country_id": "EC",
+        "year": "1997",
+        "value": 28162053026.5133
+    },
+    {
+        "country_id": "EC",
+        "year": "1996",
+        "value": 25226393196.5983
+    },
+    {
+        "country_id": "EC",
+        "year": "1995",
+        "value": 24432884442.2211
+    },
+    {
+        "country_id": "EC",
+        "year": "1994",
+        "value": 22708673336.6683
+    },
+    {
+        "country_id": "EC",
+        "year": "1993",
+        "value": 18938717358.6793
+    },
+    {
+        "country_id": "EC",
+        "year": "1992",
+        "value": 18094238119.0595
+    },
+    {
+        "country_id": "EC",
+        "year": "1991",
+        "value": 16988535267.6338
+    },
+    {
+        "country_id": "EC",
+        "year": "1990",
+        "value": 15239272611.5809
+    },
+    {
+        "country_id": "EC",
+        "year": "1989",
+        "value": 13890823704.5545
+    },
+    {
+        "country_id": "EC",
+        "year": "1988",
+        "value": 13051881851.4068
+    },
+    {
+        "country_id": "EC",
+        "year": "1987",
+        "value": 13945426859.4657
+    },
+    {
+        "country_id": "EC",
+        "year": "1986",
+        "value": 15314138472.3282
+    },
+    {
+        "country_id": "EC",
+        "year": "1985",
+        "value": 17149088413.35
+    },
+    {
+        "country_id": "EC",
+        "year": "1984",
+        "value": 16912509091.855
+    },
+    {
+        "country_id": "EC",
+        "year": "1983",
+        "value": 17152477036.5005
+    },
+    {
+        "country_id": "EC",
+        "year": "1982",
+        "value": 19929846396.4239
+    },
+    {
+        "country_id": "EC",
+        "year": "1981",
+        "value": 21810759353.7304
+    },
+    {
+        "country_id": "EC",
+        "year": "1980",
+        "value": 17881508242.4481
+    },
+    {
+        "country_id": "EC",
+        "year": "1979",
+        "value": 14175160902.0721
+    },
+    {
+        "country_id": "EC",
+        "year": "1978",
+        "value": 11922497876.4828
+    },
+    {
+        "country_id": "EC",
+        "year": "1977",
+        "value": 11026342618.1141
+    },
+    {
+        "country_id": "EC",
+        "year": "1976",
+        "value": 9091921030.17345
+    },
+    {
+        "country_id": "EC",
+        "year": "1975",
+        "value": 7731674472.07212
+    },
+    {
+        "country_id": "EC",
+        "year": "1974",
+        "value": 6599257044.12414
+    },
+    {
+        "country_id": "EC",
+        "year": "1973",
+        "value": 3891754150.23796
+    },
+    {
+        "country_id": "EC",
+        "year": "1972",
+        "value": 3185986087.33583
+    },
+    {
+        "country_id": "EC",
+        "year": "1971",
+        "value": 2754219271.03082
+    },
+    {
+        "country_id": "EC",
+        "year": "1970",
+        "value": 2862503139.00358
+    },
+    {
+        "country_id": "EC",
+        "year": "1969",
+        "value": 3112165727.38342
+    },
+    {
+        "country_id": "EC",
+        "year": "1968",
+        "value": 2582179864.15493
+    },
+    {
+        "country_id": "EC",
+        "year": "1967",
+        "value": 2553595172.08743
+    },
+    {
+        "country_id": "EC",
+        "year": "1966",
+        "value": 2429308638.838
+    },
+    {
+        "country_id": "EC",
+        "year": "1965",
+        "value": 2387047395.70254
+    },
+    {
+        "country_id": "EC",
+        "year": "1964",
+        "value": 2244146103.18342
+    },
+    {
+        "country_id": "EC",
+        "year": "1963",
+        "value": 1824343870.41393
+    },
+    {
+        "country_id": "EC",
+        "year": "1962",
+        "value": 1518207703.89016
+    },
+    {
+        "country_id": "EC",
+        "year": "1961",
+        "value": 1753850954.83979
+    },
+    {
+        "country_id": "EC",
+        "year": "1960",
+        "value": 2069464936.59762
+    },
+    {
+        "country_id": "GY",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "GY",
+        "year": "2022",
+        "value": 14718388489.2086
+    },
+    {
+        "country_id": "GY",
+        "year": "2021",
+        "value": 8041362110.31175
+    },
+    {
+        "country_id": "GY",
+        "year": "2020",
+        "value": 5471256594.72422
+    },
+    {
+        "country_id": "GY",
+        "year": "2019",
+        "value": 5173760191.84652
+    },
+    {
+        "country_id": "GY",
+        "year": "2018",
+        "value": 4787637005.53562
+    },
+    {
+        "country_id": "GY",
+        "year": "2017",
+        "value": 4748174334.14044
+    },
+    {
+        "country_id": "GY",
+        "year": "2016",
+        "value": 4482697336.56174
+    },
+    {
+        "country_id": "GY",
+        "year": "2015",
+        "value": 4279840193.7046
+    },
+    {
+        "country_id": "GY",
+        "year": "2014",
+        "value": 4127660158.47257
+    },
+    {
+        "country_id": "GY",
+        "year": "2013",
+        "value": 4167800935.59876
+    },
+    {
+        "country_id": "GY",
+        "year": "2012",
+        "value": 4063088535.76331
+    },
+    {
+        "country_id": "GY",
+        "year": "2011",
+        "value": 3691384317.52178
+    },
+    {
+        "country_id": "GY",
+        "year": "2010",
+        "value": 3432912516.92427
+    },
+    {
+        "country_id": "GY",
+        "year": "2009",
+        "value": 3165663152.73351
+    },
+    {
+        "country_id": "GY",
+        "year": "2008",
+        "value": 3025187433.33637
+    },
+    {
+        "country_id": "GY",
+        "year": "2007",
+        "value": 2730971595.39574
+    },
+    {
+        "country_id": "GY",
+        "year": "2006",
+        "value": 2379817990.6918
+    },
+    {
+        "country_id": "GY",
+        "year": "2005",
+        "value": 824880550.343965
+    },
+    {
+        "country_id": "GY",
+        "year": "2004",
+        "value": 787814379.183843
+    },
+    {
+        "country_id": "GY",
+        "year": "2003",
+        "value": 743063950.317749
+    },
+    {
+        "country_id": "GY",
+        "year": "2002",
+        "value": 726131434.715338
+    },
+    {
+        "country_id": "GY",
+        "year": "2001",
+        "value": 712167450.162898
+    },
+    {
+        "country_id": "GY",
+        "year": "2000",
+        "value": 712667896.727512
+    },
+    {
+        "country_id": "GY",
+        "year": "1999",
+        "value": 694754988.258295
+    },
+    {
+        "country_id": "GY",
+        "year": "1998",
+        "value": 717530683.169567
+    },
+    {
+        "country_id": "GY",
+        "year": "1997",
+        "value": 749138009.56454
+    },
+    {
+        "country_id": "GY",
+        "year": "1996",
+        "value": 705406001.424501
+    },
+    {
+        "country_id": "GY",
+        "year": "1995",
+        "value": 621626785.915493
+    },
+    {
+        "country_id": "GY",
+        "year": "1994",
+        "value": 540874934.201012
+    },
+    {
+        "country_id": "GY",
+        "year": "1993",
+        "value": 454101382.488479
+    },
+    {
+        "country_id": "GY",
+        "year": "1992",
+        "value": 373573141.486811
+    },
+    {
+        "country_id": "GY",
+        "year": "1991",
+        "value": 348533094.812165
+    },
+    {
+        "country_id": "GY",
+        "year": "1990",
+        "value": 396582263.291139
+    },
+    {
+        "country_id": "GY",
+        "year": "1989",
+        "value": 379779389.705882
+    },
+    {
+        "country_id": "GY",
+        "year": "1988",
+        "value": 413799990
+    },
+    {
+        "country_id": "GY",
+        "year": "1987",
+        "value": 354591846.938775
+    },
+    {
+        "country_id": "GY",
+        "year": "1986",
+        "value": 504651139.534884
+    },
+    {
+        "country_id": "GY",
+        "year": "1985",
+        "value": 453488372.093023
+    },
+    {
+        "country_id": "GY",
+        "year": "1984",
+        "value": 437631605.263158
+    },
+    {
+        "country_id": "GY",
+        "year": "1983",
+        "value": 489333333.333333
+    },
+    {
+        "country_id": "GY",
+        "year": "1982",
+        "value": 482000000
+    },
+    {
+        "country_id": "GY",
+        "year": "1981",
+        "value": 570357107.142857
+    },
+    {
+        "country_id": "GY",
+        "year": "1980",
+        "value": 603200000
+    },
+    {
+        "country_id": "GY",
+        "year": "1979",
+        "value": 530440000
+    },
+    {
+        "country_id": "GY",
+        "year": "1978",
+        "value": 507080000
+    },
+    {
+        "country_id": "GY",
+        "year": "1977",
+        "value": 449880000
+    },
+    {
+        "country_id": "GY",
+        "year": "1976",
+        "value": 454440000
+    },
+    {
+        "country_id": "GY",
+        "year": "1975",
+        "value": 494791666.666667
+    },
+    {
+        "country_id": "GY",
+        "year": "1974",
+        "value": 433954545.454545
+    },
+    {
+        "country_id": "GY",
+        "year": "1973",
+        "value": 307047619.047619
+    },
+    {
+        "country_id": "GY",
+        "year": "1972",
+        "value": 285380952.380952
+    },
+    {
+        "country_id": "GY",
+        "year": "1971",
+        "value": 282050000
+    },
+    {
+        "country_id": "GY",
+        "year": "1970",
+        "value": 267800000
+    },
+    {
+        "country_id": "GY",
+        "year": "1969",
+        "value": 249300000
+    },
+    {
+        "country_id": "GY",
+        "year": "1968",
+        "value": 229750000
+    },
+    {
+        "country_id": "GY",
+        "year": "1967",
+        "value": 250176470.588235
+    },
+    {
+        "country_id": "GY",
+        "year": "1966",
+        "value": 228705882.352941
+    },
+    {
+        "country_id": "GY",
+        "year": "1965",
+        "value": 213235294.117647
+    },
+    {
+        "country_id": "GY",
+        "year": "1964",
+        "value": 194774513.063717
+    },
+    {
+        "country_id": "GY",
+        "year": "1963",
+        "value": 175757893.938598
+    },
+    {
+        "country_id": "GY",
+        "year": "1962",
+        "value": 194949512.626218
+    },
+    {
+        "country_id": "GY",
+        "year": "1961",
+        "value": 185849535.376162
+    },
+    {
+        "country_id": "GY",
+        "year": "1960",
+        "value": 170216241.126064
+    },
+    {
+        "country_id": "PE",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "2022",
+        "value": 242631573320.79
+    },
+    {
+        "country_id": "PE",
+        "year": "2021",
+        "value": 223717799056.526
+    },
+    {
+        "country_id": "PE",
+        "year": "2020",
+        "value": 201947615138.567
+    },
+    {
+        "country_id": "PE",
+        "year": "2019",
+        "value": 228325821196.153
+    },
+    {
+        "country_id": "PE",
+        "year": "2018",
+        "value": 222597009739.235
+    },
+    {
+        "country_id": "PE",
+        "year": "2017",
+        "value": 211007984080.911
+    },
+    {
+        "country_id": "PE",
+        "year": "2016",
+        "value": 191898104390.379
+    },
+    {
+        "country_id": "PE",
+        "year": "2015",
+        "value": 189802976285.619
+    },
+    {
+        "country_id": "PE",
+        "year": "2014",
+        "value": 200786250582.943
+    },
+    {
+        "country_id": "PE",
+        "year": "2013",
+        "value": 201175543571.392
+    },
+    {
+        "country_id": "PE",
+        "year": "2012",
+        "value": 192650021648.583
+    },
+    {
+        "country_id": "PE",
+        "year": "2011",
+        "value": 171761737046.585
+    },
+    {
+        "country_id": "PE",
+        "year": "2010",
+        "value": 147527631520.729
+    },
+    {
+        "country_id": "PE",
+        "year": "2009",
+        "value": 120822986521.479
+    },
+    {
+        "country_id": "PE",
+        "year": "2008",
+        "value": 120550599815.441
+    },
+    {
+        "country_id": "PE",
+        "year": "2007",
+        "value": 102170981144.136
+    },
+    {
+        "country_id": "PE",
+        "year": "2006",
+        "value": 88643193061.748
+    },
+    {
+        "country_id": "PE",
+        "year": "2005",
+        "value": 76060606060.6061
+    },
+    {
+        "country_id": "PE",
+        "year": "2004",
+        "value": 66768703497.5687
+    },
+    {
+        "country_id": "PE",
+        "year": "2003",
+        "value": 58731030121.8671
+    },
+    {
+        "country_id": "PE",
+        "year": "2002",
+        "value": 54777553515.0809
+    },
+    {
+        "country_id": "PE",
+        "year": "2001",
+        "value": 52030158775.4055
+    },
+    {
+        "country_id": "PE",
+        "year": "2000",
+        "value": 51744749133.213
+    },
+    {
+        "country_id": "PE",
+        "year": "1999",
+        "value": 50187324567.883
+    },
+    {
+        "country_id": "PE",
+        "year": "1998",
+        "value": 55501467877.381
+    },
+    {
+        "country_id": "PE",
+        "year": "1997",
+        "value": 58147522522.5225
+    },
+    {
+        "country_id": "PE",
+        "year": "1996",
+        "value": 55252414130.3019
+    },
+    {
+        "country_id": "PE",
+        "year": "1995",
+        "value": 53312793687.3836
+    },
+    {
+        "country_id": "PE",
+        "year": "1994",
+        "value": 44882079766.8913
+    },
+    {
+        "country_id": "PE",
+        "year": "1993",
+        "value": 34832077220.8537
+    },
+    {
+        "country_id": "PE",
+        "year": "1992",
+        "value": 35966302303.263
+    },
+    {
+        "country_id": "PE",
+        "year": "1991",
+        "value": 34341465998.2003
+    },
+    {
+        "country_id": "PE",
+        "year": "1990",
+        "value": 26410386962.8019
+    },
+    {
+        "country_id": "PE",
+        "year": "1989",
+        "value": 22499558526.3682
+    },
+    {
+        "country_id": "PE",
+        "year": "1988",
+        "value": 15439408447.2
+    },
+    {
+        "country_id": "PE",
+        "year": "1987",
+        "value": 36533467759.4118
+    },
+    {
+        "country_id": "PE",
+        "year": "1986",
+        "value": 21777475654.2857
+    },
+    {
+        "country_id": "PE",
+        "year": "1985",
+        "value": 15044388198.1818
+    },
+    {
+        "country_id": "PE",
+        "year": "1984",
+        "value": 20339340469.3333
+    },
+    {
+        "country_id": "PE",
+        "year": "1983",
+        "value": 14124541992.5
+    },
+    {
+        "country_id": "PE",
+        "year": "1982",
+        "value": 15203143381
+    },
+    {
+        "country_id": "PE",
+        "year": "1981",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1980",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1979",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1978",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1977",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1976",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1975",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1974",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1973",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1972",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1971",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1970",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1969",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1968",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1967",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1966",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1965",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1964",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1963",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1962",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1961",
+        "value": null
+    },
+    {
+        "country_id": "PE",
+        "year": "1960",
+        "value": null
+    },
+    {
+        "country_id": "PY",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "PY",
+        "year": "2022",
+        "value": 41722295229.2279
+    },
+    {
+        "country_id": "PY",
+        "year": "2021",
+        "value": 39950899938.7482
+    },
+    {
+        "country_id": "PY",
+        "year": "2020",
+        "value": 35432178068.1814
+    },
+    {
+        "country_id": "PY",
+        "year": "2019",
+        "value": 37925338329.1494
+    },
+    {
+        "country_id": "PY",
+        "year": "2018",
+        "value": 40225448340.6322
+    },
+    {
+        "country_id": "PY",
+        "year": "2017",
+        "value": 38997129473.5558
+    },
+    {
+        "country_id": "PY",
+        "year": "2016",
+        "value": 36089700222.9461
+    },
+    {
+        "country_id": "PY",
+        "year": "2015",
+        "value": 36211447840.0971
+    },
+    {
+        "country_id": "PY",
+        "year": "2014",
+        "value": 40377929295.6419
+    },
+    {
+        "country_id": "PY",
+        "year": "2013",
+        "value": 38501122141.4241
+    },
+    {
+        "country_id": "PY",
+        "year": "2012",
+        "value": 33271921136.315
+    },
+    {
+        "country_id": "PY",
+        "year": "2011",
+        "value": 33756238766.5
+    },
+    {
+        "country_id": "PY",
+        "year": "2010",
+        "value": 27260886405.2263
+    },
+    {
+        "country_id": "PY",
+        "year": "2009",
+        "value": 22355151161.994
+    },
+    {
+        "country_id": "PY",
+        "year": "2008",
+        "value": 24615267663.5456
+    },
+    {
+        "country_id": "PY",
+        "year": "2007",
+        "value": 17856393235.4338
+    },
+    {
+        "country_id": "PY",
+        "year": "2006",
+        "value": 13429430050.261
+    },
+    {
+        "country_id": "PY",
+        "year": "2005",
+        "value": 10737500188.1123
+    },
+    {
+        "country_id": "PY",
+        "year": "2004",
+        "value": 9624440836.29309
+    },
+    {
+        "country_id": "PY",
+        "year": "2003",
+        "value": 7691367471.17992
+    },
+    {
+        "country_id": "PY",
+        "year": "2002",
+        "value": 7196260656.84556
+    },
+    {
+        "country_id": "PY",
+        "year": "2001",
+        "value": 8495806432.18467
+    },
+    {
+        "country_id": "PY",
+        "year": "2000",
+        "value": 8855705139.55857
+    },
+    {
+        "country_id": "PY",
+        "year": "1999",
+        "value": 8837070235.51892
+    },
+    {
+        "country_id": "PY",
+        "year": "1998",
+        "value": 9260481572.42462
+    },
+    {
+        "country_id": "PY",
+        "year": "1997",
+        "value": 9965225678.05093
+    },
+    {
+        "country_id": "PY",
+        "year": "1996",
+        "value": 9788391780.52421
+    },
+    {
+        "country_id": "PY",
+        "year": "1995",
+        "value": 9062131475.02318
+    },
+    {
+        "country_id": "PY",
+        "year": "1994",
+        "value": 7870982004.8195
+    },
+    {
+        "country_id": "PY",
+        "year": "1993",
+        "value": 7249533620.30614
+    },
+    {
+        "country_id": "PY",
+        "year": "1992",
+        "value": 7157424031.06045
+    },
+    {
+        "country_id": "PY",
+        "year": "1991",
+        "value": 6984367762.90371
+    },
+    {
+        "country_id": "PY",
+        "year": "1990",
+        "value": 5812114523.01187
+    },
+    {
+        "country_id": "PY",
+        "year": "1989",
+        "value": 4757732199.96213
+    },
+    {
+        "country_id": "PY",
+        "year": "1988",
+        "value": 4255683528.33333
+    },
+    {
+        "country_id": "PY",
+        "year": "1987",
+        "value": 3971044723.8024
+    },
+    {
+        "country_id": "PY",
+        "year": "1986",
+        "value": 3723993942.79088
+    },
+    {
+        "country_id": "PY",
+        "year": "1985",
+        "value": 3282449235.76129
+    },
+    {
+        "country_id": "PY",
+        "year": "1984",
+        "value": 4502462807.13993
+    },
+    {
+        "country_id": "PY",
+        "year": "1983",
+        "value": 5673248726.16438
+    },
+    {
+        "country_id": "PY",
+        "year": "1982",
+        "value": 5419411764.70588
+    },
+    {
+        "country_id": "PY",
+        "year": "1981",
+        "value": 5624515873.01587
+    },
+    {
+        "country_id": "PY",
+        "year": "1980",
+        "value": 4448087301.5873
+    },
+    {
+        "country_id": "PY",
+        "year": "1979",
+        "value": 3416777777.77778
+    },
+    {
+        "country_id": "PY",
+        "year": "1978",
+        "value": 2559857142.85714
+    },
+    {
+        "country_id": "PY",
+        "year": "1977",
+        "value": 2092158730.15873
+    },
+    {
+        "country_id": "PY",
+        "year": "1976",
+        "value": 1698960317.46032
+    },
+    {
+        "country_id": "PY",
+        "year": "1975",
+        "value": 1511420634.92063
+    },
+    {
+        "country_id": "PY",
+        "year": "1974",
+        "value": 1333475396.8254
+    },
+    {
+        "country_id": "PY",
+        "year": "1973",
+        "value": 995531746.031746
+    },
+    {
+        "country_id": "PY",
+        "year": "1972",
+        "value": 769039682.539683
+    },
+    {
+        "country_id": "PY",
+        "year": "1971",
+        "value": 664571428.571429
+    },
+    {
+        "country_id": "PY",
+        "year": "1970",
+        "value": 594611111.111111
+    },
+    {
+        "country_id": "PY",
+        "year": "1969",
+        "value": 556293650.793651
+    },
+    {
+        "country_id": "PY",
+        "year": "1968",
+        "value": 517650793.650794
+    },
+    {
+        "country_id": "PY",
+        "year": "1967",
+        "value": 492674603.174603
+    },
+    {
+        "country_id": "PY",
+        "year": "1966",
+        "value": 465888888.888889
+    },
+    {
+        "country_id": "PY",
+        "year": "1965",
+        "value": 443587301.587302
+    },
+    {
+        "country_id": "PY",
+        "year": "1964",
+        "value": null
+    },
+    {
+        "country_id": "PY",
+        "year": "1963",
+        "value": null
+    },
+    {
+        "country_id": "PY",
+        "year": "1962",
+        "value": null
+    },
+    {
+        "country_id": "PY",
+        "year": "1961",
+        "value": null
+    },
+    {
+        "country_id": "PY",
+        "year": "1960",
+        "value": null
+    },
+    {
+        "country_id": "SR",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "SR",
+        "year": "2022",
+        "value": 3620987993.32637
+    },
+    {
+        "country_id": "SR",
+        "year": "2021",
+        "value": 3081401725.88833
+    },
+    {
+        "country_id": "SR",
+        "year": "2020",
+        "value": 2911807496.20227
+    },
+    {
+        "country_id": "SR",
+        "year": "2019",
+        "value": 4016040575.08796
+    },
+    {
+        "country_id": "SR",
+        "year": "2018",
+        "value": 3996198866.57453
+    },
+    {
+        "country_id": "SR",
+        "year": "2017",
+        "value": 3591679430.99988
+    },
+    {
+        "country_id": "SR",
+        "year": "2016",
+        "value": 3317421648.09918
+    },
+    {
+        "country_id": "SR",
+        "year": "2015",
+        "value": 5126237646.22072
+    },
+    {
+        "country_id": "SR",
+        "year": "2014",
+        "value": 5240606060.60606
+    },
+    {
+        "country_id": "SR",
+        "year": "2013",
+        "value": 5145757575.75758
+    },
+    {
+        "country_id": "SR",
+        "year": "2012",
+        "value": 4980000000
+    },
+    {
+        "country_id": "SR",
+        "year": "2011",
+        "value": 4422276621.78703
+    },
+    {
+        "country_id": "SR",
+        "year": "2010",
+        "value": 4368370997.92126
+    },
+    {
+        "country_id": "SR",
+        "year": "2009",
+        "value": 3875409836.06557
+    },
+    {
+        "country_id": "SR",
+        "year": "2008",
+        "value": 3532969034.60838
+    },
+    {
+        "country_id": "SR",
+        "year": "2007",
+        "value": 2936612021.85792
+    },
+    {
+        "country_id": "SR",
+        "year": "2006",
+        "value": 2626380435.17877
+    },
+    {
+        "country_id": "SR",
+        "year": "2005",
+        "value": 1793410397.38738
+    },
+    {
+        "country_id": "SR",
+        "year": "2004",
+        "value": 1484092538.40527
+    },
+    {
+        "country_id": "SR",
+        "year": "2003",
+        "value": 1274190311.41869
+    },
+    {
+        "country_id": "SR",
+        "year": "2002",
+        "value": 1093574468.08511
+    },
+    {
+        "country_id": "SR",
+        "year": "2001",
+        "value": 834279357.798165
+    },
+    {
+        "country_id": "SR",
+        "year": "2000",
+        "value": 947671969.69697
+    },
+    {
+        "country_id": "SR",
+        "year": "1999",
+        "value": 886290697.674419
+    },
+    {
+        "country_id": "SR",
+        "year": "1998",
+        "value": 1110850000
+    },
+    {
+        "country_id": "SR",
+        "year": "1997",
+        "value": 926422500
+    },
+    {
+        "country_id": "SR",
+        "year": "1996",
+        "value": 861372806.2082
+    },
+    {
+        "country_id": "SR",
+        "year": "1995",
+        "value": 691590497.737557
+    },
+    {
+        "country_id": "SR",
+        "year": "1994",
+        "value": 605492537.313433
+    },
+    {
+        "country_id": "SR",
+        "year": "1993",
+        "value": 428764705.882353
+    },
+    {
+        "country_id": "SR",
+        "year": "1992",
+        "value": 404600000
+    },
+    {
+        "country_id": "SR",
+        "year": "1991",
+        "value": 448100000
+    },
+    {
+        "country_id": "SR",
+        "year": "1990",
+        "value": 388400000
+    },
+    {
+        "country_id": "SR",
+        "year": "1989",
+        "value": 542600000
+    },
+    {
+        "country_id": "SR",
+        "year": "1988",
+        "value": 1161000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1987",
+        "value": 980000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1986",
+        "value": 891000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1985",
+        "value": 873000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1984",
+        "value": 864000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1983",
+        "value": 883500000
+    },
+    {
+        "country_id": "SR",
+        "year": "1982",
+        "value": 915000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1981",
+        "value": 889000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1980",
+        "value": 795000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1979",
+        "value": 782500000
+    },
+    {
+        "country_id": "SR",
+        "year": "1978",
+        "value": 735500000
+    },
+    {
+        "country_id": "SR",
+        "year": "1977",
+        "value": 641500000
+    },
+    {
+        "country_id": "SR",
+        "year": "1976",
+        "value": 505500000
+    },
+    {
+        "country_id": "SR",
+        "year": "1975",
+        "value": 465500000
+    },
+    {
+        "country_id": "SR",
+        "year": "1974",
+        "value": 409850000
+    },
+    {
+        "country_id": "SR",
+        "year": "1973",
+        "value": 339450000
+    },
+    {
+        "country_id": "SR",
+        "year": "1972",
+        "value": 311950000
+    },
+    {
+        "country_id": "SR",
+        "year": "1971",
+        "value": 301000000
+    },
+    {
+        "country_id": "SR",
+        "year": "1970",
+        "value": 274900000
+    },
+    {
+        "country_id": "SR",
+        "year": "1969",
+        "value": 259650000
+    },
+    {
+        "country_id": "SR",
+        "year": "1968",
+        "value": 241350000
+    },
+    {
+        "country_id": "SR",
+        "year": "1967",
+        "value": 220700000
+    },
+    {
+        "country_id": "SR",
+        "year": "1966",
+        "value": 190350000
+    },
+    {
+        "country_id": "SR",
+        "year": "1965",
+        "value": 154150000
+    },
+    {
+        "country_id": "SR",
+        "year": "1964",
+        "value": 134400000
+    },
+    {
+        "country_id": "SR",
+        "year": "1963",
+        "value": 125950000
+    },
+    {
+        "country_id": "SR",
+        "year": "1962",
+        "value": 116150000
+    },
+    {
+        "country_id": "SR",
+        "year": "1961",
+        "value": 107700000
+    },
+    {
+        "country_id": "SR",
+        "year": "1960",
+        "value": 99650000
+    },
+    {
+        "country_id": "UY",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "UY",
+        "year": "2022",
+        "value": 71177146197.4951
+    },
+    {
+        "country_id": "UY",
+        "year": "2021",
+        "value": 61412268248.9461
+    },
+    {
+        "country_id": "UY",
+        "year": "2020",
+        "value": 53666908053.7655
+    },
+    {
+        "country_id": "UY",
+        "year": "2019",
+        "value": 62048585618.505
+    },
+    {
+        "country_id": "UY",
+        "year": "2018",
+        "value": 65203071817.9812
+    },
+    {
+        "country_id": "UY",
+        "year": "2017",
+        "value": 65006047680.3225
+    },
+    {
+        "country_id": "UY",
+        "year": "2016",
+        "value": 57480788380.312
+    },
+    {
+        "country_id": "UY",
+        "year": "2015",
+        "value": 57680327998.6689
+    },
+    {
+        "country_id": "UY",
+        "year": "2014",
+        "value": 61496186973.902
+    },
+    {
+        "country_id": "UY",
+        "year": "2013",
+        "value": 61337621933.7857
+    },
+    {
+        "country_id": "UY",
+        "year": "2012",
+        "value": 54232266358.7811
+    },
+    {
+        "country_id": "UY",
+        "year": "2011",
+        "value": 50342406067.0777
+    },
+    {
+        "country_id": "UY",
+        "year": "2010",
+        "value": 41950361211.9581
+    },
+    {
+        "country_id": "UY",
+        "year": "2009",
+        "value": 32708319077.5179
+    },
+    {
+        "country_id": "UY",
+        "year": "2008",
+        "value": 31119602538.8322
+    },
+    {
+        "country_id": "UY",
+        "year": "2007",
+        "value": 23797773024.3992
+    },
+    {
+        "country_id": "UY",
+        "year": "2006",
+        "value": 19741420739.8901
+    },
+    {
+        "country_id": "UY",
+        "year": "2005",
+        "value": 17362857683.8545
+    },
+    {
+        "country_id": "UY",
+        "year": "2004",
+        "value": 13686329890.1191
+    },
+    {
+        "country_id": "UY",
+        "year": "2003",
+        "value": 12045638351.8507
+    },
+    {
+        "country_id": "UY",
+        "year": "2002",
+        "value": 13606515722.5864
+    },
+    {
+        "country_id": "UY",
+        "year": "2001",
+        "value": 20898761742.2386
+    },
+    {
+        "country_id": "UY",
+        "year": "2000",
+        "value": 22823270892.1094
+    },
+    {
+        "country_id": "UY",
+        "year": "1999",
+        "value": 23983945190.6202
+    },
+    {
+        "country_id": "UY",
+        "year": "1998",
+        "value": 25385886977.5228
+    },
+    {
+        "country_id": "UY",
+        "year": "1997",
+        "value": 23969739233.8966
+    },
+    {
+        "country_id": "UY",
+        "year": "1996",
+        "value": 20515458113.5857
+    },
+    {
+        "country_id": "UY",
+        "year": "1995",
+        "value": 19297663096.5506
+    },
+    {
+        "country_id": "UY",
+        "year": "1994",
+        "value": 17474588895.8918
+    },
+    {
+        "country_id": "UY",
+        "year": "1993",
+        "value": 15002136971.1745
+    },
+    {
+        "country_id": "UY",
+        "year": "1992",
+        "value": 12878148790.7348
+    },
+    {
+        "country_id": "UY",
+        "year": "1991",
+        "value": 11206176650.9075
+    },
+    {
+        "country_id": "UY",
+        "year": "1990",
+        "value": 9298807850.29979
+    },
+    {
+        "country_id": "UY",
+        "year": "1989",
+        "value": 8438951476.06644
+    },
+    {
+        "country_id": "UY",
+        "year": "1988",
+        "value": 8213538368.84635
+    },
+    {
+        "country_id": "UY",
+        "year": "1987",
+        "value": 7367494080.40014
+    },
+    {
+        "country_id": "UY",
+        "year": "1986",
+        "value": 5880112788.40947
+    },
+    {
+        "country_id": "UY",
+        "year": "1985",
+        "value": 4732017873.38369
+    },
+    {
+        "country_id": "UY",
+        "year": "1984",
+        "value": 4850267475.3547
+    },
+    {
+        "country_id": "UY",
+        "year": "1983",
+        "value": 5102251570.86339
+    },
+    {
+        "country_id": "UY",
+        "year": "1982",
+        "value": 9179000938.42489
+    },
+    {
+        "country_id": "UY",
+        "year": "1981",
+        "value": 11048642638.7473
+    },
+    {
+        "country_id": "UY",
+        "year": "1980",
+        "value": 10162460046.2912
+    },
+    {
+        "country_id": "UY",
+        "year": "1979",
+        "value": 7181487624.39398
+    },
+    {
+        "country_id": "UY",
+        "year": "1978",
+        "value": 4910526315.78947
+    },
+    {
+        "country_id": "UY",
+        "year": "1977",
+        "value": 4114374865.50463
+    },
+    {
+        "country_id": "UY",
+        "year": "1976",
+        "value": 3667716535.43307
+    },
+    {
+        "country_id": "UY",
+        "year": "1975",
+        "value": 3538014311.27012
+    },
+    {
+        "country_id": "UY",
+        "year": "1974",
+        "value": 4091438979.96357
+    },
+    {
+        "country_id": "UY",
+        "year": "1973",
+        "value": 3964994165.69428
+    },
+    {
+        "country_id": "UY",
+        "year": "1972",
+        "value": 2188700564.97175
+    },
+    {
+        "country_id": "UY",
+        "year": "1971",
+        "value": 2807258064.51613
+    },
+    {
+        "country_id": "UY",
+        "year": "1970",
+        "value": 2137096774.19355
+    },
+    {
+        "country_id": "UY",
+        "year": "1969",
+        "value": 2004435483.87097
+    },
+    {
+        "country_id": "UY",
+        "year": "1968",
+        "value": 1592672413.7931
+    },
+    {
+        "country_id": "UY",
+        "year": "1967",
+        "value": 1597142857.14286
+    },
+    {
+        "country_id": "UY",
+        "year": "1966",
+        "value": 1805555555.55556
+    },
+    {
+        "country_id": "UY",
+        "year": "1965",
+        "value": 1893103448.27586
+    },
+    {
+        "country_id": "UY",
+        "year": "1964",
+        "value": 1970588235.29412
+    },
+    {
+        "country_id": "UY",
+        "year": "1963",
+        "value": 1553333333.33333
+    },
+    {
+        "country_id": "UY",
+        "year": "1962",
+        "value": 1763636363.63636
+    },
+    {
+        "country_id": "UY",
+        "year": "1961",
+        "value": 1600000000
+    },
+    {
+        "country_id": "UY",
+        "year": "1960",
+        "value": 1208333333.33333
+    },
+    {
+        "country_id": "VE",
+        "year": "2023",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2022",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2021",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2020",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2019",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2018",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2017",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2016",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2015",
+        "value": null
+    },
+    {
+        "country_id": "VE",
+        "year": "2014",
+        "value": 482359318767.703
+    },
+    {
+        "country_id": "VE",
+        "year": "2013",
+        "value": 371005379786.566
+    },
+    {
+        "country_id": "VE",
+        "year": "2012",
+        "value": 381286237847.667
+    },
+    {
+        "country_id": "VE",
+        "year": "2011",
+        "value": 316482190800.364
+    },
+    {
+        "country_id": "VE",
+        "year": "2010",
+        "value": 393192354510.653
+    },
+    {
+        "country_id": "VE",
+        "year": "2009",
+        "value": 329787628928.471
+    },
+    {
+        "country_id": "VE",
+        "year": "2008",
+        "value": 315953388510.678
+    },
+    {
+        "country_id": "VE",
+        "year": "2007",
+        "value": 230364012575.687
+    },
+    {
+        "country_id": "VE",
+        "year": "2006",
+        "value": 183477522123.894
+    },
+    {
+        "country_id": "VE",
+        "year": "2005",
+        "value": 145513489651.872
+    },
+    {
+        "country_id": "VE",
+        "year": "2004",
+        "value": 112451400424.964
+    },
+    {
+        "country_id": "VE",
+        "year": "2003",
+        "value": 83620628582.1082
+    },
+    {
+        "country_id": "VE",
+        "year": "2002",
+        "value": 92893587733.6549
+    },
+    {
+        "country_id": "VE",
+        "year": "2001",
+        "value": 122911036746.729
+    },
+    {
+        "country_id": "VE",
+        "year": "2000",
+        "value": 117146466002.661
+    },
+    {
+        "country_id": "VE",
+        "year": "1999",
+        "value": 97972842461.5131
+    },
+    {
+        "country_id": "VE",
+        "year": "1998",
+        "value": 91336763255.0597
+    },
+    {
+        "country_id": "VE",
+        "year": "1997",
+        "value": 85837678559.8324
+    },
+    {
+        "country_id": "VE",
+        "year": "1996",
+        "value": 70543211119.099
+    },
+    {
+        "country_id": "VE",
+        "year": "1995",
+        "value": 77389487770.0883
+    },
+    {
+        "country_id": "VE",
+        "year": "1994",
+        "value": 58418666666.6667
+    },
+    {
+        "country_id": "VE",
+        "year": "1993",
+        "value": 60037460783.1941
+    },
+    {
+        "country_id": "VE",
+        "year": "1992",
+        "value": 60416519620.0849
+    },
+    {
+        "country_id": "VE",
+        "year": "1991",
+        "value": 53453444786.6256
+    },
+    {
+        "country_id": "VE",
+        "year": "1990",
+        "value": 48606952194.7752
+    },
+    {
+        "country_id": "VE",
+        "year": "1989",
+        "value": 43536709104.0115
+    },
+    {
+        "country_id": "VE",
+        "year": "1988",
+        "value": 60226413793.1034
+    },
+    {
+        "country_id": "VE",
+        "year": "1987",
+        "value": 48029034482.7586
+    },
+    {
+        "country_id": "VE",
+        "year": "1986",
+        "value": 60516123711.3402
+    },
+    {
+        "country_id": "VE",
+        "year": "1985",
+        "value": 61965466666.6667
+    },
+    {
+        "country_id": "VE",
+        "year": "1984",
+        "value": 59867743467.9335
+    },
+    {
+        "country_id": "VE",
+        "year": "1983",
+        "value": 67556279069.7674
+    },
+    {
+        "country_id": "VE",
+        "year": "1982",
+        "value": 67736744186.0465
+    },
+    {
+        "country_id": "VE",
+        "year": "1981",
+        "value": 66327441860.4651
+    },
+    {
+        "country_id": "VE",
+        "year": "1980",
+        "value": 59116511627.907
+    },
+    {
+        "country_id": "VE",
+        "year": "1979",
+        "value": 48310930232.5581
+    },
+    {
+        "country_id": "VE",
+        "year": "1978",
+        "value": 39316279069.7674
+    },
+    {
+        "country_id": "VE",
+        "year": "1977",
+        "value": 36210697674.4186
+    },
+    {
+        "country_id": "VE",
+        "year": "1976",
+        "value": 31419534883.7209
+    },
+    {
+        "country_id": "VE",
+        "year": "1975",
+        "value": 27464651162.7907
+    },
+    {
+        "country_id": "VE",
+        "year": "1974",
+        "value": 26100930232.5581
+    },
+    {
+        "country_id": "VE",
+        "year": "1973",
+        "value": 17035581395.3488
+    },
+    {
+        "country_id": "VE",
+        "year": "1972",
+        "value": 13977727272.7273
+    },
+    {
+        "country_id": "VE",
+        "year": "1971",
+        "value": 12986590909.0909
+    },
+    {
+        "country_id": "VE",
+        "year": "1970",
+        "value": 11561111111.1111
+    },
+    {
+        "country_id": "VE",
+        "year": "1969",
+        "value": 10285111111.1111
+    },
+    {
+        "country_id": "VE",
+        "year": "1968",
+        "value": 10034444444.4444
+    },
+    {
+        "country_id": "VE",
+        "year": "1967",
+        "value": 9250000000
+    },
+    {
+        "country_id": "VE",
+        "year": "1966",
+        "value": 8781333333.33333
+    },
+    {
+        "country_id": "VE",
+        "year": "1965",
+        "value": 8427777777.77778
+    },
+    {
+        "country_id": "VE",
+        "year": "1964",
+        "value": 8192413793.10345
+    },
+    {
+        "country_id": "VE",
+        "year": "1963",
+        "value": 9608717288.17057
+    },
+    {
+        "country_id": "VE",
+        "year": "1962",
+        "value": 8814309884.21165
+    },
+    {
+        "country_id": "VE",
+        "year": "1961",
+        "value": 8067267030.61863
+    },
+    {
+        "country_id": "VE",
+        "year": "1960",
+        "value": 7663938303.07172
+    }
+]
